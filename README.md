@@ -15,7 +15,6 @@ Method: POST
 ### Request Payload:
 To effectively utilize the API, you need to provide the examDate and the available free hours for exam preparation each day leading up to the final exam. Please ensure you include all the days from the current date until the exam date. Here's an example:
 
-#### Example 1.
 ```json
 {
   "examDate": "2023-06-15",
@@ -44,7 +43,7 @@ To effectively utilize the API, you need to provide the examDate and the availab
   ]
 }
 ```
-#### Example 2.
+#### Example 1.
 ```json
 {
   "examDate": "2023-06-01",
