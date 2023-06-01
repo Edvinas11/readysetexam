@@ -26,7 +26,6 @@ public class ScheduleService {
             LocalDate.of(2023, 12, 24), // Christmas Eve
             LocalDate.of(2023, 12, 25), // Christmas
             LocalDate.of(2023, 01, 01), // New Year's day
-            LocalDate.of(2023, 05, 30),
             // Add more special dates if needed.
         };
 
